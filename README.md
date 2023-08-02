@@ -1,5 +1,5 @@
 # CCNA-2
-## CCNA-2 labs
+- CCNA-2 labs
 
 <table>
   <tr>
