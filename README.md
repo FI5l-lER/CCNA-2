@@ -17,7 +17,7 @@
   <tr>
     <td>Switching Concepts</td>
     <td>2/08/2023</td>
-    <td">0/0</td>
+    <td>0/0</td>
   </tr>
   <tr>
     <td>VLANs</td>
