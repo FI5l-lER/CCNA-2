@@ -1,6 +1,12 @@
 # CCNA-2 <img align='right' src='https://cdn.dribbble.com/users/3826508/screenshots/14400745/media/d95e3ca02e149c6e8f96f0e20941b28e.gif' width='50' height='50'>
 - CCNA-2 Packet Tracer labs categorized in modules with completion rate and dat
 
+<style>
+  .row {
+    width: 200px;
+  }
+</style>
+
 # Module Labs
 
 <table>
@@ -14,7 +20,7 @@
     <td>2/08/2023</td>
     <td>3/3</td>
   </tr>
-  <tr>
+  <tr> {#identifier .row}
     <td>Switching Concepts</td>
     <td>2/08/2023</td>
     <td>0/0</td>
