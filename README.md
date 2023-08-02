@@ -11,7 +11,7 @@
       <th>Task Completion</th>
     </tr>
     <tr>
-      [Basic Device Configuration](https://github.com/c1oud05/Basic-Device-Configuration/tree/main)
+      <td><a href="https://github.com/c1oud05/Basic-Device-Configuration/tree/main">Basic Device Configuration</a></td>
       <td>2/08/2023</td>
       <td>3/3</td>
     </tr>
