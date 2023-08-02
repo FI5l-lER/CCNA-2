@@ -3,7 +3,7 @@
 
 # Module Labs <img align='right' src='https://media.tenor.com/NdWpwj3NKpYAAAAM/santosh-dawar-scientist.gif' width='45' height='45'>
 
-<div margin='auto'>
+<div>
   <table>
     <tr>
       <th>Module</th>
