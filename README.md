@@ -1,6 +1,8 @@
 # CCNA-2
 - CCNA-2 labs
 
+<img align='right' src='https://cdn.dribbble.com/users/3826508/screenshots/14400745/media/d95e3ca02e149c6e8f96f0e20941b28e.gif'>
+
 <table>
   <tr>
     <th>Module</th>
