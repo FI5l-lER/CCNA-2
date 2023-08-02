@@ -1,6 +1,12 @@
 # CCNA-2
 - CCNA-2 labs
 
+style {
+  th {
+    backgroud-color: green;
+  }
+}
+
 <table>
   <tr>
     <th>Module</th>
