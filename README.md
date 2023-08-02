@@ -1,4 +1,4 @@
-# CCNA-2 <img algin='bottom' src='https://cdn.dribbble.com/users/3826508/screenshots/14400745/media/d95e3ca02e149c6e8f96f0e20941b28e.gif' width='50' height='50'>
+# CCNA-2 <img align='bottom' src='https://cdn.dribbble.com/users/3826508/screenshots/14400745/media/d95e3ca02e149c6e8f96f0e20941b28e.gif' width='50' height='50'>
 - CCNA-2 Packet Tracer labs categorized in modules with completion rate and dat
 
 # Module Labs
