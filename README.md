@@ -2,10 +2,12 @@
 - CCNA-2 labs
 
 <style>
-  th {
+  p {
     color: green;
   }
 </style>
+
+<p>This is a green text!!!</p>
 
 <table>
   <tr>
