@@ -1,16 +1,8 @@
 # CCNA-2
 - CCNA-2 labs
 
-<style>
-  p {
-    color: green;
-  }
-</style>
-
-<p>This is a green text!!!</p>
-
 <table>
-  <tr>
+  <tr style="width: 100px">
     <th>Module</th>
     <th>Date</th>
     <th>Completed</th>
