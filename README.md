@@ -3,7 +3,7 @@
 
 <style>
   th {
-    backgroud-color: green;
+    color: green;
   }
 </style>
 
