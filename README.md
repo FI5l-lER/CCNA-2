@@ -6,7 +6,7 @@
 <table>
   <tr>
     <th>Module</th>
-    <th>Date</th>
+    <th>Completion Date</th>
     <th>Task Completion</th>
   </tr>
   <tr>
@@ -17,7 +17,7 @@
   <tr>
     <td>Switching Concepts</td>
     <td>2/08/2023</td>
-    <td style="width:500px">0/0</td>
+    <td">0/0</td>
   </tr>
   <tr>
     <td>VLANs</td>
