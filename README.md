@@ -2,8 +2,8 @@
 - CCNA-2 labs
 
 <table>
-  <tr style="width: 100px">
-    <th>Module</th>
+  <tr>
+    <th style="width: 100px">Module</th>
     <th>Date</th>
     <th>Completed</th>
   </tr>
