@@ -3,7 +3,7 @@
 
 <table>
   <tr>
-    <th style="width: 100px">Module</th>
+    <th style="width: 500px">Module</th>
     <th>Date</th>
     <th>Completed</th>
   </tr>
