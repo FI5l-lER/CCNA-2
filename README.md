@@ -1,5 +1,5 @@
 # CCNA-2 <img align='right' src='https://cdn.dribbble.com/users/3826508/screenshots/14400745/media/d95e3ca02e149c6e8f96f0e20941b28e.gif' width='50' height='50'>
-- CCNA-2 Packet Tracer labs categorized in modules with completion rate and dat
+- CCNA-2 Packet Tracer labs categorized in modules with completion tasks and date
 
 # Module Labs <img align='right' src='https://media.tenor.com/NdWpwj3NKpYAAAAM/santosh-dawar-scientist.gif' width='45' height='45'>
 
@@ -7,7 +7,7 @@
   <tr>
     <th>Module</th>
     <th>Date</th>
-    <th>Completed</th>
+    <th>Task Completion</th>
   </tr>
   <tr>
     <td>Basic Device Configuration</td>
