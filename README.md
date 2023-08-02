@@ -1,11 +1,11 @@
 # CCNA-2
 - CCNA-2 labs
 
-style {
+<style>
   th {
     backgroud-color: green;
   }
-}
+</style>
 
 <table>
   <tr>
