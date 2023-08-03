@@ -27,67 +27,67 @@
     </tr>
     <tr>
       <td>Inter-VLAN Routing</td>
-      <td>Todo</td>
+      <td>TODO</td>
       <td>0/4</td>
     </tr>
     <tr>
       <td>STP Concepts</td>
-      <td>Todo</td>
+      <td>TODO</td>
       <td>0/1</td>
     </tr>
     <tr>
       <td>EtherChannel</td>
-      <td>Todo</td>
+      <td>TODO</td>
       <td>0/3</td>
     </tr>
     <tr>
       <td>DHCPv4</td>
-      <td>Todo</td>
+      <td>TODO</td>
       <td>0/2</td>
     </tr>
     <tr>
       <td>SLAAC and DHCPv6</td>
-      <td>Todo</td>
+      <td>TODO</td>
       <td>None</td>
     </tr>
     <tr>
       <td>FHRP Concepts</td>
-      <td>Todo</td>
+      <td>TODO</td>
       <td>0/2</td>
     </tr>
     <tr>
       <td>LAN Security Concepts</td>
-      <td>Todo</td>
+      <td>TODO</td>
       <td>None</td>
     </tr>
     <tr>
       <td>Switch Security Configuration</td>
-      <td>Todo</td>
+      <td>TODO</td>
       <td>0/2</td>
     </tr>
     <tr>
       <td>WLAN Concepts</td>
-      <td>Todo</td>
+      <td>TODO</td>
       <td>None</td>
     </tr>
     <tr>
       <td>WLAN Configuration</td>
-      <td>Todo</td>
+      <td>TODO</td>
       <td>0/6</td>
     </tr>
     <tr>
       <td>Routing Concepts</td>
-      <td>Todo</td>
+      <td>TODO</td>
       <td>0/3</td>
     </tr>
     <tr>
       <td>IP Static Routing</td>
-      <td>Todo</td>
+      <td>TODO</td>
       <td>0/1</td>
     </tr>
     <tr>
       <td>Troubleshoot Static and Default Routes</td>
-      <td>Todo</td>
+      <td>TODO</td>
       <td>0/2</td>
     </tr>
   </table>
