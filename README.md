@@ -12,18 +12,18 @@
     </tr>
     <tr>
       <td><a href="https://github.com/c1oud05/Basic-Device-Configuration/tree/main">Basic Device Configuration</a></td>
-      <td>2/08/2023</td>
+      <td>28/07/2023</td>
       <td>5/5</td>
     </tr>
     <tr>
       <td>Switching Concepts</td>
-      <td>2/08/2023</td>
-      <td>0/0</td>
+      <td>26/07/2023</td>
+      <td>None</td>
     </tr>
     <tr>
       <td><a href="https://github.com/c1oud05/VLANs/tree/main">VLANs</a></td>
       <td>2/08/2023</td>
-      <td>0/0</td>
+      <td>4/6</td>
     </tr>
     <tr>
       <td>Inter-VLAN Routing</td>
