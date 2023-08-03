@@ -62,7 +62,7 @@
     </tr>
     <tr>
       <td>Switch Security Configuration</td>
-      <td>Todo/td>
+      <td>Todo</td>
       <td>0/2</td>
     </tr>
     <tr>
